@@ -17,7 +17,7 @@ try out the following phrases:
 - Sort by followers
 - Clear the filters
 
-<img width="246" height="506" src="https://raw.githubusercontent.com/speechly/android-repo-filtering/master/assets/screenshot01.png" />
+<img width="246" height="506" src="https://raw.githubusercontent.com/speechly/android-repo-filtering/master/assets/screenshot02.png" />
 
 ## About Speechly
 
