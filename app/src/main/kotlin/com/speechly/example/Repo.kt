@@ -1,7 +1,5 @@
 package com.speechly.example
 
-import android.graphics.drawable.Drawable
-
 data class Repo(
         val id: Long,
         val language: String,

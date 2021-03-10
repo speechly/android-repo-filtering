@@ -9,7 +9,6 @@
         android:layout_width="match_parent"
         android:layout_height="match_parent"
         android:orientation="vertical">
-
         <androidx.recyclerview.widget.RecyclerView
             android:id="@+id/recycler_view"
             android:layout_width="match_parent"
@@ -17,7 +16,6 @@
             android:layout_gravity="bottom|center"
             android:background="@color/white"
             tools:listitem="@layout/repo" />
-
     </LinearLayout>
     <com.speechly.ui.SpeechlyButton
         android:id="@+id/speechly"

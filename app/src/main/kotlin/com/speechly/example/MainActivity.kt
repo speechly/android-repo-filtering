@@ -74,7 +74,6 @@ class MainActivity : AppCompatActivity() {
         this.textView = findViewById(R.id.textView)
         textView?.visibility = View.INVISIBLE
 
-
         GlobalScope.launch(Dispatchers.Default) {
             speechlyClient.onSegmentChange { segment: Segment ->
                 val transcript: String = segment.words.values.map{it.value}.joinToString(" ")
