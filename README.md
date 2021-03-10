@@ -8,7 +8,7 @@ This repository contains an example app for filtering data using [Speechly](http
 3. Open the project in Android Studio.
 4. After you've deployed your Speechly app, update the `appId` in [MainActivity.kt](app/src/main/kotlin/com/speechly/example/MainActivity.kt).
 5. Build and run the project on a real device.
-<img width="246" height="506" src="https://raw.githubusercontent.com/speechly/android-repo-filtering/master/assets/screenshot01.png" />
+![](https://raw.githubusercontent.com/speechly/android-repo-filtering/master/assets/screenshot01.png)
 
 ## Usage
 try out the following phrases:
@@ -16,8 +16,7 @@ try out the following phrases:
 - Show me all Python repos
 - Sort by followers
 - Clear the filters
-
-<img width="246" height="506" src="https://raw.githubusercontent.com/speechly/android-repo-filtering/master/assets/screenshot02.png" />
+![](https://raw.githubusercontent.com/speechly/android-repo-filtering/master/assets/screenshot02.png)
 
 ## About Speechly
 
