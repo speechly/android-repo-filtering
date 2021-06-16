@@ -21,7 +21,7 @@ try out the following phrases:
 
 ## About Speechly
 
-Speechly is a developer tool for building real-time multimodal voice user interfaces. It enables developers and designers to enhance their current touch user interface with voice functionalities for better user experience. Speechly key features:
+Speechly is the Fast, Accurate, and Simple Voice Interface API for Web and Mobile Apps. Speechly key features:
 
 #### Speechly key features
 
